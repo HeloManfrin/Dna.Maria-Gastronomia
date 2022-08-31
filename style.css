@@ -1,7 +1,7 @@
 body {
-  background: #fffbf5;
   margin: 0px;
   font-family: Arial, Helvetica, sans-serif;
+  height: 2000px;
 }
 a {
   text-decoration: none;
@@ -98,10 +98,19 @@ ul {
   margin-left: auto;
   margin-right: auto;
 }
+.introducao-bg {
+  box-shadow: 0 20px 20px #a4d3e2;
+}
+
+.introducao img {
+  height: 100%;
+  object-fit: cover;
+}
 .introducao-conteudo {
   align-self: end;
   padding-bottom: 80px;
 }
+
 .introducao h1 {
   margin-bottom: 32px;
   font-size: 74px;
