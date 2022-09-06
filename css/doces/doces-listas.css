@@ -1,0 +1,39 @@
+.doces-lista {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.doces-lista ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  padding: 0 20px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.doces-lista li {
+  flex: 1;
+  min-width: 280px;
+}
+.doces-lista h2 {
+  margin-bottom: 40px;
+  box-sizing: border-box;
+  max-width: 1200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.doces-lista h3 {
+  display: flex;
+  margin-top: 20px;
+  line-height: 1.3;
+}
+.doces-lista a {
+  display: block;
+}
+@media (max-width: 800px) {
+  .doces-lista {
+    padding-bottom: 40px;
+  }
+}
