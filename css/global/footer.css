@@ -40,11 +40,8 @@
   .footer ul {
     font-size: 22px;
   }
-}
-@media(max-width:1125px){
-  .email{
-    font-size: 28px;
-    }
+  .email {
+    font-size: 22px;
   }
 }
 @media (max-width: 850px) {

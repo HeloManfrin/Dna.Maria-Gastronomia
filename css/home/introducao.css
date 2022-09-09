@@ -49,11 +49,11 @@
     padding-bottom: 0px;
   }
   .introducao h1 {
-    font-size: 42px;
+    font-size: 54px;
     margin-bottom: 16px;
   }
   .introducao p {
-    font-size: 28px;
+    font-size: 42px;
   }
   .introducao img {
     height: 400px;
@@ -62,7 +62,7 @@
 }
 @media (max-width: 620px) {
   .introducao h1 {
-    font-size: 54px;
+    font-size: 64px;
   }
   .introducao p {
     font-size: 22px;
