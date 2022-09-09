@@ -62,9 +62,9 @@
 }
 @media (max-width: 620px) {
   .introducao h1 {
-    font-size: 38px;
+    font-size: 54px;
   }
   .introducao p {
-    font-size: 18px;
+    font-size: 22px;
   }
 }
